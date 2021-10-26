@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/DiveshHariani/DiveshHariani/blob/main/Hey%2C%20I'm%20Divesh%20Hariani.png" />
 
 <!--
 **DiveshHariani/DiveshHariani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
