@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My passion for software lies in a fact that I have the small yet powerful machine 💻 which is capable of making a dent in the universe.
+My passion for software lies in a realization that I have the small yet powerful machine 💻 which is capable of making a dent in the universe.
 - Student at VES Institute of Technology, studying Computer Engineering :man_student: 
 - I love math, programming, Machine Learning, Data Science and books.
 
