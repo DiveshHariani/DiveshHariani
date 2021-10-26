@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :man_student: at VES Institute of Technology, studying Computer Engineering
+My passion for software lies in a fact that I have the small yet powerful machine 💻 which is capable of making a dent in the universe.
+- Student at VES Institute of Technology, studying Computer Engineering :man_student: 
+- I love math, programming, Machine Learning, Data Science and books.
+
+languages: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiveshHariani)](https://github.com/DiveshHariani/github-readme-stats)
