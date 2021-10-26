@@ -18,4 +18,3 @@ My passion for software lies in a fact that I have the small yet powerful machin
 - Student at VES Institute of Technology, studying Computer Engineering :man_student: 
 - I love math, programming, Machine Learning, Data Science and books.
 
-languages: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiveshHariani)](https://github.com/DiveshHariani/github-readme-stats)
