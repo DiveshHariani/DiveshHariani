@@ -46,4 +46,4 @@ I have been developing software for 3+ years now and my passion for computers li
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/diveshhariani"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>****
+<a href="https://www.buymeacoffee.com/diveshhariani"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
