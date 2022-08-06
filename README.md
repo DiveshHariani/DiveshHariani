@@ -4,7 +4,7 @@ Hi 👋 My name is Divesh Hariani
 Software Developer
 ------------------
 
-I have been developing software for 3+ years now and my passion for computers lies in the fact that a coffee and code can make a dent in the universe.
+I have been developing softwares for 3+ years now and my passion for computers lies in the fact that a coffee and code can make a dent in the universe.
 
 * 🌍  I'm based in Mumbai, India
 * ✉️  You can contact me at [divesh.hariani2001@gmail.com](mailto:divesh.hariani2001@gmail.com)
