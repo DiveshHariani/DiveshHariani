@@ -1,4 +1,4 @@
-Hi My name is Divesh Hariani
+Hi, My name is Divesh Hariani
 ===============================
 
 Software Developer
