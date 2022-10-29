@@ -8,7 +8,6 @@ I have been developing softwares for 3+ years now and my passion for computers l
 
 * 🌍  I'm based in Los Angeles, California, USA
 * ✉️  You can contact me at [divesh.hariani2001@gmail.com](mailto:divesh.hariani2001@gmail.com)
-* 🧠  I'm learning Blockchain and Web 3.0
 
 ### Skills
 
